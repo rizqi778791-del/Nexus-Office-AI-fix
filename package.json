@@ -1,0 +1,12 @@
+{
+  "name": "nexus-office-ai-v5",
+  "private": true,
+  "version": "5.0.1",
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
